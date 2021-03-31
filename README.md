@@ -18,15 +18,13 @@ A Progressive Web Application (PWA) that allows travelers to track their budget,
 <br />
 
 ## Installing
-* Download code
-* Navigate to root folder in your terminal
-* npm install 
+* Navigate to website
+* From URL bar click "install" icon
 
 <br />
 
 ## Usage
-- The user should run `npm start` to deploy the server
-  - The API can be used with API test clients such as Insomia Core or Postman
+- The user can add transactions to the budget tracker. If the internet connection is lost then the service worker and idb will save the data and sync the application once the connection is restored.
 
 ## Built With
 * Node.js
@@ -34,6 +32,9 @@ A Progressive Web Application (PWA) that allows travelers to track their budget,
 * JavaScript
 * Mongo
 * Mongoose
+* IndexedDB
+* Service Workers
+* Web Manifest
 
 <br />
 
