@@ -18,7 +18,7 @@ A Progressive Web Application (PWA) that allows travelers to track their budget,
 <br />
 
 ## Installing
-* Navigate to website
+* Navigate to the [website](https://budget-tracker-plarson.herokuapp.com/)
 * From URL bar click "install" icon
 
 <br />
