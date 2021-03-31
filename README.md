@@ -6,7 +6,8 @@
 
 A Progressive Web Application (PWA) that allows travelers to track their budget, even when their internet connection gets spotty.
 
-![image]
+![image](https://user-images.githubusercontent.com/70044796/113086211-747ad780-919e-11eb-8e20-b11316d7d085.png)
+
 
 ## Contents
 * [Installing](#Installing)
